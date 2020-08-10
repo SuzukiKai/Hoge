@@ -1,2 +1,2 @@
-# 初めてのGit
-aaaaaaaa
+# 初めてのGitじゃないかも～
+aaaaaaaabbbbbb
